@@ -1,0 +1,1 @@
+Le script arduino qui contient la transmission du cap/roulis/tangage et l'acquisition des télémètres est dans TurbotArduino (TurbotArduino.ino).
